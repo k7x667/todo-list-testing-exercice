@@ -35,7 +35,7 @@ export function Task({
         onMouseLeave={handleDisableButtonTaskHover}
       >
         {isTaskDone ? (
-          <CheckCircle size={22} className={styles.checked} weight="fill" />
+          <CheckCircle role='checkbox' size={22} className={styles.checked} weight="fill" />
         ) : (
           <Circle
             size={22}

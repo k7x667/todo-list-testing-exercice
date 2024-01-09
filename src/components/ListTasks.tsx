@@ -20,7 +20,6 @@ export function ListTask({
     const taskToBeUpdated = tasks.find((task) => task.id === id);
 
     if (!taskToBeUpdated) {
-      // TODO Put some sort of notification here
       return;
     }
 
