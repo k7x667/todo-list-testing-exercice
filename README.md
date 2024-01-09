@@ -1,3 +1,14 @@
+# Exercice
+
+## Consignes
+
+Afin de tester ce que vous avez apris ce matin, je vous propose de tester ce projet TODO list.
+Le but étant de tester tout ce que vous pouvez sur ce code pour vous assurer que les composants réalisent bien leur tâches et font bien ce qu'il faut.
+
+Vous avez potentiellement aussi des tests unitaires à faire à l'intérieur de ce projet, je vous laisserai voir à votre guise.
+
+Bon courage !
+
 # To-do using React and Typescript
 
 ![Screenshot](https://imgur.com/lDZoyUs.png)
