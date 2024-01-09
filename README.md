@@ -11,6 +11,8 @@ Bon courage !
 
 # To-do using React and Typescript
 
+**Original repo [here](https://github.com/dantas15/todo-react-ts) by @dantas-15**
+
 ![Screenshot](https://imgur.com/lDZoyUs.png)
 
 <p align="center">  
